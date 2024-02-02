@@ -1,5 +1,6 @@
-<a href="https://www.textstudio.com/">Font generator</a>
-<h1 align="center">Hi 👋, 我是 LucasTung(你可以叫我yimang)</h1>
+
+<h1 ![Hi-I-m-yimang-2024-2-2](https://github.com/imyimang/imyimang/assets/93421743/55bcc30f-577c-42e6-916b-5c09e1d9ae5c)
+align="center">Hi 👋, 我是 LucasTung(你可以叫我yimang)</h1>
 <h3 align="center">我是一個台灣的高中生</h3>
 
 - 🔭 目前正在進行的項目 [AI chat機器人](https://github.com/YimangakaLucasTung/discord-gemini-chat-bot)
