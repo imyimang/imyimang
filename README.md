@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yimangakalucastung&show_icons=true&locale=en" alt="yimangakalucastung" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yimangakalucastung&" alt="yimangakalucastung" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimangakalucastung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
