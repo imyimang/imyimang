@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, 我是 yimang</h1>
 <h3 align="center">我是一個台灣的高中生</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imyimang&label=Profile%20views&color=0e75b6&style=flat" alt="imyimang" /> </p>
-
 - 🔭 目前正在進行的項目 [AI chat機器人](https://github.com/YimangakaLucasTung/discord-gemini-chat-bot)
 
 - 🌱 目前正在學習 **C++**
