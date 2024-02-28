@@ -4,7 +4,7 @@
 
 - 🔭 目前正在進行的項目 [AI chat機器人](https://github.com/YimangakaLucasTung/discord-gemini-chat-bot)
 
-- 🌱 目前正在學習 **C++**
+- 🌱 目前正在學習 **C++**, **JavaScript**
 
 - 📫 如何聯絡我 **lucasbbtung@gmail.com**
 
