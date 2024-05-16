@@ -4,7 +4,7 @@
 
 - 🔭 目前正在進行的項目 [AI 小鎮](https://github.com/956zs/AI_town/)
 
-- 🌱 目前正在學習 **C++**, **JavaScript**
+- 🌱 目前正在學習 **C++**, **JavaScript**, **Fortran**
 
 - 📫 如何聯絡我 **lucasbbtung@gmail.com**
 
