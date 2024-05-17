@@ -18,6 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imyimang&show_icons=true&theme=dark&locale=en" alt="imyimang" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyimang&layout=compact&langs_count=20&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyimang&langs_count=20&theme=dark)
 
 
