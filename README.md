@@ -5,7 +5,7 @@
 
 - 🌱 Learning **C++**, **JavaScript**, **Fortran**
 
-- 📫 contact me : **lucasbbtung@gmail.com**
+- 📫 Contact me : **lucasbbtung@gmail.com**
 
 ## Social media:
 <p align="left">
