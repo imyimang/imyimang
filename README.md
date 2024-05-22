@@ -14,7 +14,7 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,fortran,html)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,fortran,html)](https://skillicons.dev)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imyimang&show_icons=true&theme=dark&locale=en" alt="imyimang" /></p>
