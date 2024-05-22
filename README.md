@@ -8,12 +8,14 @@
 
 - 📫 如何聯絡我 **lucasbbtung@gmail.com**
 
-<h3 align="left">聯絡我:</h3>
+<h3 align="left">contact me:</h3>
 <p align="left">
 <a href="https://instagram.com/yimang__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yimang__" height="30" width="40" /></a>
+<a href=" https://x.com/imyimang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imyimang" height="30" width="40" /></a>
+ 
 </p>
 
-
+<h3 align="left">Skills:</h3>
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,fortran,html)](https://skillicons.dev)
 
 
