@@ -22,4 +22,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyimang&langs_count=20&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=imyimang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
