@@ -5,12 +5,12 @@
 
 - 🌱 Learning **C++**, **JavaScript**, **Fortran**
 
-- 📫 Contact me : **lucasbbtung@gmail.com**
+- 📫 Contact with me : **lucasbbtung@gmail.com**
 
 ## Social media:
 <p align="left">
 <a href="https://instagram.com/yimang__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yimang__" height="30" width="40" /></a>
-<a href=" https://x.com/imyimang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imyimang" height="30" width="40" /></a>
+<a href="https://twitter.com/imyimang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imyimang" height="30" width="40" /></a>
 </p>
 
 ## Skills:
