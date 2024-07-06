@@ -16,4 +16,3 @@ update-readme:
         SHOW_PROFILE_VIEWS: False
         SHOW_SHORT_INFO: False
         SHOW_LOC_CHART: False
-        
