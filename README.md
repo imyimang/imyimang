@@ -26,7 +26,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imyimang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<figure><embed src="https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/a7284347-8731-42ca-b281-29d5e1dd7209.svg"></embed></figure>
+![Waka time](https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/a7284347-8731-42ca-b281-29d5e1dd7209.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
