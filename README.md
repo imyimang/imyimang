@@ -27,9 +27,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=imyimang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/6ccb9d61-1e66-449f-bd54-8dfe7f78ba33.svg" style="max-width: 45%; margin-right: 5%;">
-    <img src="https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/3e2b9246-4494-4a27-ad01-d3027c6e7ac3.svg" style="max-width: 45%;">
+    <img src="https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/6ccb9d61-1e66-449f-bd54-8dfe7f78ba33.svg" style="max-width: 30%; margin-right: 5%;">
+    <img src="https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/3e2b9246-4494-4a27-ad01-d3027c6e7ac3.svg" style="max-width: 30%;">
 </div>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
