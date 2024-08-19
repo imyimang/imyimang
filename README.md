@@ -19,6 +19,8 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,fortran,html)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ubuntu,cloudflare,vscode,discord)](https://skillicons.dev)
 
+[![wakatime](https://wakatime.com/badge/user/ae9549e9-981a-4760-b908-48d457840875.svg)](https://wakatime.com/@ae9549e9-981a-4760-b908-48d457840875)
+
 ## 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imyimang&show_icons=true&theme=dark&locale=en" alt="imyimang" /></p>
 
