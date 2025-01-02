@@ -15,6 +15,8 @@
 <a href="https://t.me/imyimang" target="blank"><img align="center" src="tg.svg" alt="imyimang" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 [![wakatime](https://wakatime.com/badge/user/ae9549e9-981a-4760-b908-48d457840875.svg)](https://wakatime.com/@ae9549e9-981a-4760-b908-48d457840875)
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imyimang&show_icons=true&theme=dark&locale=en" alt="imyimang" /></p>
