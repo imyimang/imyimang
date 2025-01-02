@@ -25,10 +25,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imyimang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/4c269860-6809-4293-bf9d-89a9617b4971.svg" alt="Waka time" style="margin-right: 10px;">
-  <img src="https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/3e2b9246-4494-4a27-ad01-d3027c6e7ac3.svg" alt="Waka">
-</div>
+| ![Waka time](https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/4c269860-6809-4293-bf9d-89a9617b4971.svg) | ![Waka](https://wakatime.com/share/@ae9549e9-981a-4760-b908-48d457840875/3e2b9246-4494-4a27-ad01-d3027c6e7ac3.svg) |
+|---|---|
 
 
 <!--START_SECTION:waka-->
