@@ -6,8 +6,8 @@
 
 - 📫 Contact me at:
   - ✉️ *lucasbbtung@gmail.com*
-  - <img src = "tg.svg" width = 20> *imyimang*
-  - <img src = "dc.svg" width = 20> *yimang__*
+  - <img src = "tg.svg" width = 15> *imyimang*
+  - <img src = "dc.svg" width = 15> *yimang__*
 
 - 🌐 Visit my website:
   - **https://who.isgay.tech**
