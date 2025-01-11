@@ -4,16 +4,13 @@
 
 
 
-- 📫 Contact me at : **lucasbbtung@gmail.com**
+- 📫 Contact me at:
+  - ✉️ *lucasbbtung@gmail.com*
+  - <img src = "tg.svg" width = 20> *imyimang*
+  - <img src = "dc.svg" width = 20> *yimang__*
 
-- 🌐 Visit my website : **https://website-chi-seven-95.vercel.app/**
-
-<h2 align="center">Find me Here 👇 </h1>
-<p align="middle">
-<a href="https://instagram.com/yimang__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yimang__" height="45" width="60" /></a>
-<a href="https://x.com/imyimang" target="blank"><img align="center" src="x.svg" alt="imyimang" height="45" width="60" /></a>
-<a href="https://t.me/imyimang" target="blank"><img align="center" src="tg.svg" alt="imyimang" height="45" width="60" /></a>
-</p>
+- 🌐 Visit my website:
+  - **https://who.isgay.tech**
 
 <hr>
 
