@@ -5,9 +5,9 @@
 
 
 - 📫 Contact me at:
-  - ✉️ *lucasbbtung@gmail.com*
-  - <img src = "tg.svg" width = 15> *imyimang*
-  - <img src = "dc.svg" width = 15> *yimang__*
+  - ✉️ lucasbbtung&#8203;@gmail.com
+  - <img src="tg.svg" width="15"> &nbsp;imyimang
+  - <img src="dc.svg" width="15"> &nbsp;yimang__
 
 - 🌐 Visit my website:
   - **https://who.isgay.tech**
