@@ -12,7 +12,7 @@
   - <img src="tg.svg" width="15"> &nbsp;imyimang
 
 - 🌐 Visit my website:
-  - **https://who.isgay.tech**
+  - **https://yimang.tw**
 
 <hr>
 
