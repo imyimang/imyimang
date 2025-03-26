@@ -5,7 +5,7 @@
 
 
 - 📫 Contact me at:
-  - ✉️ lucasbbtung&#8203;@gmail.com
+  - ✉️ me&#8203;@yimang.tw
   - <img src="dc.svg" width="15"> &nbsp;yimang__
   - <img src="ig.svg" width="15"> &nbsp;yimang__
   - <img src="x.svg" width="15"> &nbsp;imyimang
