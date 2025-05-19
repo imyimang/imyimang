@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, i'm yimang</h1>
+<h1 align="center">Hi 👋, i'm yimang(Lucas Tung)</h1>
 <h3 align="center">I am a high school student from Taiwan</h3>
 
 
