@@ -4,15 +4,8 @@
 
 
 
-- 📫 Contact me at:
-  - ✉️ me&#8203;@yimang.tw
-  - <img src="dc.svg" width="15"> &nbsp;yimang__
-  - <img src="ig.svg" width="15"> &nbsp;yimang__
-  - <img src="x.svg" width="15"> &nbsp;imyimang
-  - <img src="tg.svg" width="15"> &nbsp;imyimang
-
-- 🌐 Visit my blog:
-  - **https://yimang.tw**
+- 📫 Contact Info:
+  - **https://yimang.tw/about**
 
 <hr>
 
