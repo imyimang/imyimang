@@ -4,7 +4,7 @@
 
 
 
-- 📫 Contact Info:
+- 📫 Contact:
   - **https://yimang.tw/about**
 
 <hr>
