@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yimang</h1>
 
 - 📫 Contact:
-  - **https://yimang.tw/about**
+  - **https://yimang.tw/en/about**
 
 <hr>
 
