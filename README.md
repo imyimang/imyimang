@@ -1,16 +1,30 @@
-# github-profile-summary-cards-example
+<h1 align="center">Hi 👋, I'm yimang</h1>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
+- 📫 Contact:
+  - **https://yimang.tw/about**
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+<hr>
 
-```To create your profile README you need to name the repo as your username```
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/imyimang/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details">
+  </a>
+</p>
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/imyimang/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/imyimang/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language">
+  </a>
+</p>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/imyimang/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/imyimang/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time">
+  </a>
+</p>
